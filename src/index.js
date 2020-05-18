@@ -1,1 +1,3 @@
-console.log('init');
+import lesson1 from './lesson1';
+
+lesson1();
